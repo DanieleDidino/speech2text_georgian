@@ -1,10 +1,8 @@
 <h1 align="center">Speech To Text - Georgian Language</h1>
 
-
-This is just a POC to transcribe audio files in the Georgian language.
+This is a POC to transcribe Georgian audio files into text.
 
 It uses the OpenAI model `whisper-large-v3`.
-
 
 TO DO
 1. Add **Attention Masking**
