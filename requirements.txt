@@ -1,2 +1,15 @@
+accelerate==0.34.0
+datasets==2.21.0
+ipykernel==6.29.5
+jupyterlab==4.2.4
+numpy==2.1.0
+openai==1.7.0
+pandas==2.2.2
+protobuf==5.27.3
+pydub==0.25.1
+python-environ==0.4.54
+sentencepiece==0.2.0
+torch==2.4.0
+torchaudio==2.4.0
 transformers==4.44.1
 
